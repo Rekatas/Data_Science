@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+Data/SuperMarket_Clean.csv
+.DS_Store
